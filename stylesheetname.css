@@ -7,10 +7,9 @@ ul {
 }
 li {
     display: inline;
-    float: left;
 }
 li a {
-   display: block;
+  display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -24,7 +23,6 @@ h1 {
     border-style: solid;
     border-width: 5px;
     border-color: #9567E2;
-    float: left;
 }
 p {
   font-family: " Times New Roman", serif;
