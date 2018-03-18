@@ -1,5 +1,6 @@
-background-color: purple;
-
+body {
+    background-color: purple;
+}
 ul {
     list-style-type: none;
     margin: 0;
