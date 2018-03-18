@@ -9,6 +9,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.something {
+    background-color: black;
+}
 ul {
     list-style-type: none;
     margin: 0;
