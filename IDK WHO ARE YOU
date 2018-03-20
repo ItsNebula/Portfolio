@@ -2,16 +2,36 @@
 <!DOCTYPE.html>
 <html>
   <head>
-    <title>Zeyuan is SO fat</title>
-    
+    <link rel= "stylesheet" href="stylesheetname.css">
+    <title>Website | ItsNebula </title>
+
   </head>
-   <body> 
+  <body>
+    <div class="bg"> 
       <article>
       <header>
-        <h1>I agree with the title</h1>
-            <p>same here!</p>
-        <h3>me either lel.</h3>
-      </article>
+        <h1>ItsNebula</h1>
+            <p>Welcome!</p>
+        <h3>Welcome to ItsNebula's website,LOL </h3>
+        <ul>
+          <li><a href="https://www.youtube.com/channel/UC_iAw9Vl5aaidl2UFfji48g?view_as=subscriber">MyChannel</a>
+          <li><a href="https://starbreak.com">StarBreak</a></li>
+        </ul>
+        <img src="https://github.com/ItsNebula/Portfolio/blob/gh-pages/pikachulol.jpg?raw=true" >  
+        <img src="https://github.com/ItsNebula/Portfolio/blob/master/ItsNebulaLOGO.png?raw=true" >
+        <img src="https://github.com/ItsNebula/Portfolio/blob/master/04e2f0bc395ee37944f14b1f9381ae30.png?raw=true" >
+   </div>
+   <div class="something">
+        <img src="https://github.com/ItsNebula/Portfolio/blob/master/250px-Ironclad.png?raw=true" >
+        <img src="https://github.com/ItsNebula/Portfolio/blob/master/wildfire-5bc61.webp?raw=true" >
+        <p>its a pikachu</p>
+        <p>its not nebula</p>
+        <p>its something</p>
+        <p>its a random robot that has a small leg with a giant head</p>
+        <p>its a random guy who loves to shoot something</p>
+        <p>fun fact, town of salem is fun</p>
+   </div>
       </header>
-   </body>
+      </article>
+  </body>
 </html>
